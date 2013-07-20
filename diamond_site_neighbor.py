@@ -88,7 +88,9 @@ def lattice_sites(site_id, L=3):
     V = np.array(V)
     for coord in V:
         # wrap
-        coord %= L
+        coord[1] %= L
+        coord[2] %= L
+        coord[3] %= L
         
         # add index to list
         neighbors.append(coord[0] + NUM_SITES*(coord[1] + L*(coord[2] + coord[3]*L)))
