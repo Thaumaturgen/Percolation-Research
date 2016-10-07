@@ -1,0 +1,19 @@
+Lattice: Diamond Site Lattice
+Side Length: 256
+Smallest Length: 16
+Unit Size: 2
+R: 0.4302817383
+
+Slope: 678.5404295271
+
+
+Starting P:0.429 
+Ending P: 0.430953125
+
+"./diamond_site256/Diamond_Site_data_256_20130728T051608Z.txt"
+"./diamond_site256/Diamond_Site_data_256_20130728T052610Z.txt"
+"./diamond_site256/Diamond_Site_data_256_20130728T052626Z.txt"
+"./diamond_site256/Diamond_Site_data_256_20130728T065556Z.txt"
+"./diamond_site256/Diamond_Site_data_256_20130728T071114Z.txt"
+"./diamond_site256/Diamond_Site_data_256_20130728T073737Z.txt"
+"./diamond_site256/Diamond_Site_data_256_20130728T075145Z.txt"
